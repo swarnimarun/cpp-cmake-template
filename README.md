@@ -5,19 +5,11 @@ simple cmake cpp template
 ### build
 
 ```sh
-./build.sh # linux
-
-./build.ps1 # windows
+just build
 ```
 
 ### run
 
 ```sh
-./run.sh # linux
-
-./run.ps1 # windows
+just run
 ```
-
-## roadmap
-
-- I will just keep adding things as I think of them.
