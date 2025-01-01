@@ -1,2 +1,2 @@
-cmake -B build-linux
-make -C build-linux
+cmake -S . -B build
+cmake --build build --parallel

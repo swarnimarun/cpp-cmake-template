@@ -1,1 +1,1 @@
-./build-windows-x86-64/Debug/main.exe $args
+./build/Debug/main.exe $args

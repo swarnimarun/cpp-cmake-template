@@ -1,1 +1,1 @@
-./build-linux/main $@
+./build/main $@
